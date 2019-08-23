@@ -8,3 +8,5 @@ Agradecimentos ao Leonardo Gama por produzir o material :)
 ## Enunciados
   * __Exercício 1:__ https://projecteuler.net/problem=1
   * __Exercício 2:__ https://projecteuler.net/problem=4
+  * __Exercício 3:__ https://projecteuler.net/problem=6
+
